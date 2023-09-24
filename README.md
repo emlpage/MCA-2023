@@ -3,8 +3,8 @@
 
 <head>
 
-    <!-- INFOST4013 Portfolio -->
-
+<!-- Emily -->
+<title> INFOST2024 </title>
     
 </head>
     
