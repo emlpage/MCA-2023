@@ -9,8 +9,8 @@
 </head>
 
 <h1> Week 1 </h1>
-<h2>**Task 1** Dataset Theme </h2>
-<p> For my theme, I have chosen *The Carnival of the Animals\/Les Carnaval des Animaux*, with specific interest in the movement *The Elephant\/L'Éléphant* </p>
+<h2> __Task 1__ Dataset Theme </h2>
+<p> For my theme, I have chosen _The Carnival of the Animals/Les Carnaval des Animaux_, with specific interest in the movement _The Elephant\/L'Éléphant_ </p>
 
 
 
