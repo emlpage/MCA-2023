@@ -17,9 +17,15 @@
 
 <h1> Week 1, Theme </h1>
 
+My chosen theme is.
 
-<p> My chosen theme is the No.4 Tere Strauss Opperetta *Die Fledermaus*. <br>i chose this because i like the operetta and think it is fun.</p>
 
+* Item 1
+* Item 2
+  1. Item 1
+  2. Item 2
+  3. *Item 3a
+     *Item 3b
   
   </body>
   
