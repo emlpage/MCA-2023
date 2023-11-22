@@ -7,7 +7,12 @@
 <title> INFOST2024 </title>
     
 </head>
-    
+
+<h1> Week 1 </h1>
+<h2>**Task 1** Dataset Theme </h2>
+For my theme, I have chosen *The Carnival of the Animals\/Les Carnaval des Animaux*, with specific interest in the movement *The Elephant\/L'Éléphant*
+
+
 
 
 
@@ -17,16 +22,13 @@
 
 <h1> Week 1, Theme </h1>
 
-My chosen theme is.
+My chosen theme is
 
 
-* Item 1
-* Item 2
-  1. Item 1
-  2. Item 2
-  3. * Item 3a
-     * Item 3b
-  
+
+
+
+
   </body>
   
   
