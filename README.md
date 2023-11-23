@@ -4,13 +4,14 @@
 <head>
 
 <!-- Emily -->
-<title> INFOST2024 </title>
+INFOST2024 
     
 </head>
 
 <h1> Week 1 </h1>
-<h2> __Task 1__ Dataset Theme </h2>
-<p> For my theme, I have chosen _The Carnival of the Animals/Les Carnaval des Animaux_, with specific interest in the movement _The Elephant\/L'Éléphant_ </p>
+<h2> Task 1 Dataset Theme </h2>
+
+For my theme, I have chosen _The Carnival of the Animals/Les Carnaval des Animaux_, with specific interest in the movement _The Elephant\/L'Éléphant_ 
 
 
 
