@@ -13,7 +13,6 @@
     <header class="banner">
         <h1>MCA-2023</h1>
     </header>
-
     <div class="topnav">
         <a class="active" href="README.md">WEEK 1</a>
         <a href="week2.html">WEEK 2</a>
@@ -26,11 +25,8 @@
         <a href="week9.html">WEEK 9</a>
         <a href="week10.html">WEEK 10</a>
     </div>
-
-
     <h2>Task 1: My task 1</h2>
-
-    <p>
+ <p>
         Et quia pariatur ut dolor sunt 33 alias eaque et voluptatibus aspernatur 
         At quasi accusantium ut dolores dolor et nobis temporibus. Ea maiores doloribus
          ut libero iste ea laboriosam officia ab laudantium consectetur sed deleniti internos. 
@@ -38,9 +34,9 @@
          ea veniam pariatur.
     </p>
 
-    <h2>Task 2: My task 2</h2>
+  <h2>Task 2: My task 2</h2>
 
-    <p>
+ <p>
         Sit quidem Quis et explicabo itaque non galisum veritatis ab omnis accusantium 
         eos quisquam sapiente qui harum minima! At omnis voluptate quo natus autem et 
         vitae provident. Aut voluptatem delectus sit explicabo autem quo rerum quae et 
