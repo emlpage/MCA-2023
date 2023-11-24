@@ -26,26 +26,27 @@
         <a href="week10.html">WEEK 10</a>
     </div>
 
+
     <h2>Task 1: My task 1</h2>
 
     <p>
-        Lorem ipsum dolor sit amet. Est sint quae ut galisum galisum nam temporibus voluptates 
-        ad nemo consequatur! Et saepe facere cum aspernatur optio a eius dolore aut exercitationem 
-        dolor eos earum rerum! Rem ullam exercitationem et omnis sunt et dolor enim ad totam voluptas 
-        et libero error ut odio natus et fugit quia? Qui quae iste in voluptatem beatae sit voluptatibus 
-        eaque et ullam quas id possimus dignissimos!
+        Et quia pariatur ut dolor sunt 33 alias eaque et voluptatibus aspernatur 
+        At quasi accusantium ut dolores dolor et nobis temporibus. Ea maiores doloribus
+         ut libero iste ea laboriosam officia ab laudantium consectetur sed deleniti internos. 
+         Eum delectus reprehenderit a sint aliquid id impedit saepe aut veniam culpa 
+         ea veniam pariatur.
     </p>
 
     <h2>Task 2: My task 2</h2>
 
     <p>
-        Aut necessitatibus blanditiis est impedit alias ut aliquam nemo ut praesentium corrupti est iure 
-        voluptate ea necessitatibus aperiam non optio fugiat. Rem ipsam ipsam et cupiditate cumque non 
-        aliquam saepe. Cum tenetur recusandae non maiores corrupti ut alias tempora sit dolorem quasi. 
-        Et nobis ipsum eos tenetur saepe et accusantium consequuntur quo assumenda nisi.
-    </p> 
-
+        Sit quidem Quis et explicabo itaque non galisum veritatis ab omnis accusantium 
+        eos quisquam sapiente qui harum minima! At omnis voluptate quo natus autem et 
+        vitae provident. Aut voluptatem delectus sit explicabo autem quo rerum quae et 
+        totam officia sed consequatur possimus non deleniti atque! Sit cumque odit et numquam 
+        quisquam hic placeat rerum vel voluptatem maiores est enim amet et minus unde.
+    </p>
+      
 </body>
 
 </html>
-
