@@ -2,7 +2,9 @@
 #description {
   margin: 0 0 1em 0;
 }
-
+#app {
+  height: 1000px
+}
 tei-teiHeader {
   display: none;
 }
