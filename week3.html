@@ -4,46 +4,36 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style1.css">
 </head>
-
 <body>
-
 <!--- Banner -->
-
     <header class="banner">
         <h1>MCA-2023</h1>
-        <h3>Curation and Analytics</h3>
     </header>
-
     <div class="topnav">
         <a href="index.html">WEEK 1</a>
         <a href="week2.html">WEEK 2</a>
-        <a class="active" href="verovio.html">WEEK 3</a>
+        <a class="active" href="week3.html">WEEK 3</a>
         <a href="week4.html">WEEK 4</a>
-        <a href="week5.html">WEEK 5</a>
-        <a href="week6.html">WEEK 6</a>
-        <a href="week7.html">WEEK 7</a>
+        <a href="week5.html">WEEK 5/7</a>
         <a href="week8.html">WEEK 8</a>
         <a href="week9.html">WEEK 9</a>
         <a href="week10.html">WEEK 10</a>
     </div>
-
-    <h2>Task 1: My task 1</h2>
-    <div id="app">Verovio is loading...</div>
+    <div class="week3">
+        <h2>Task 1: Rendering The Elephant using Verovio</h2>
+        <div id="app">Verovio is loading...</div>
     <script type="module">
         import 'https://www.verovio.org/javascript/app/verovio-app.js';
-        
         const options = {
             defaultView: 'responsive', // default is 'responsive', alternative is 'document'
             defaultZoom: 3, // 0-7, default is 4
             enableResponsive: true, // default is true
             enableDocument: true // default is true
-        }
-        
+        } 
         // A MusicXML file
-        var file = 'data/TheElephant2.mei';
+        var file = "data/The Elephant_2.musicxml";
         // A MEI file
         //var file = 'https://www.verovio.org/editor/brahms.mei';
-        
         const app = new Verovio.App(document.getElementById("app"), options);
         fetch(file)
             .then(function(response) {
@@ -52,14 +42,13 @@
             .then(function(text) {
                 app.loadData(text);
             });
-    </script>
-      <h2>Task 2: My task 2</h2>
-     
-    <p>
-        Aut quia placeat in dolor obcaecati qui voluptas nihil. Ex doloribus aliquam sit 
-        quisquam vero et aspernatur dolorem? Ex quos velit quo animi nulla sed veniam rerum! 
-        Quo excepturi culpa et enim quia est internos internos a enim quia qui odio nemo.  
-    </p>
-      
+    </script>     
+    <h4>If the image for Verovio is not loading,
+        <br> please follow along
+        with the audio, using this score: </br></h4>
+    <div class="clearfix">
+         <img class="img1" src="images/The Elephant Edited 2-1.png" alt="The Elephant Edited" width="600" height="800">
+     </div>
+    </div>  
 </body>
 </html>
